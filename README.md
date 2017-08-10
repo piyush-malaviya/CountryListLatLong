@@ -1,5 +1,5 @@
-# IndianDistrictWithLatlong
-Indian District list with lat long
+# CountryListLatlong
+Country list with lat long (currently this list contains indian major city list)
 
 
 Sample city json object
