@@ -1,4 +1,4 @@
-# CountryListLatlong
+# CountryListLatLong
 Country list with lat long (currently this list contains indian major city list)
 
 
