@@ -1,0 +1,5278 @@
+{
+  "country": [
+    {
+      "name": "India",
+      "state": [
+        {
+          "city": [
+            {
+              "latitude": "23.022505",
+              "longitude": "72.5713621",
+              "name": "Ahmedabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.3071588",
+              "longitude": "73.1812187",
+              "name": "Vadodara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.3038945",
+              "longitude": "70.8021599",
+              "name": "Rajkot",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.1702401",
+              "longitude": "72.8310607",
+              "name": "Surat",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.7644725",
+              "longitude": "72.1519304",
+              "name": "Bhavnagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.2156354",
+              "longitude": "72.6369415",
+              "name": "Gandhinagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.4707019",
+              "longitude": "70.05773",
+              "name": "Jamnagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.522184",
+              "longitude": "70.4578768",
+              "name": "Junagadh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.6915853",
+              "longitude": "72.8633635",
+              "name": "Nadiad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.750651",
+              "longitude": "72.6846658",
+              "name": "Kheda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.7201319",
+              "longitude": "71.649536",
+              "name": "Surendranagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.9158979",
+              "longitude": "70.3628516",
+              "name": "Veraval",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.7051358",
+              "longitude": "72.9958748",
+              "name": "Bharuch",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.8757175",
+              "longitude": "73.5594128",
+              "name": "Narmada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.1711262",
+              "longitude": "73.5594128",
+              "name": "Mahisagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.6417069",
+              "longitude": "69.6292654",
+              "name": "Porbandar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.5645175",
+              "longitude": "72.928871",
+              "name": "Anand",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.075297",
+              "longitude": "70.133673",
+              "name": "Gandhidham",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.8119895",
+              "longitude": "70.8236195",
+              "name": "Morbi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.5879607",
+              "longitude": "72.3693252",
+              "name": "Mehsana",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.3893155",
+              "longitude": "72.9106202",
+              "name": "Vapi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.9467019",
+              "longitude": "72.9520348",
+              "name": "Navsari",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.7788044",
+              "longitude": "73.6142795",
+              "name": "Godhra",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.7337326",
+              "longitude": "69.8597406",
+              "name": "Kutch",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.2419997",
+              "longitude": "69.6669324",
+              "name": "Bhuj",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.6264236",
+              "longitude": "73.0151984",
+              "name": "Ankleshwar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.1704232",
+              "longitude": "71.6684269",
+              "name": "Botad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.174051",
+              "longitude": "72.4330989",
+              "name": "Palanpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.8493246",
+              "longitude": "72.1266255",
+              "name": "Patan",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.8379314",
+              "longitude": "74.2531465",
+              "name": "Dahod",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.1232327",
+              "longitude": "69.3831079",
+              "name": "Devbhoomi Dwarka",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.8253781",
+              "longitude": "73.7007088",
+              "name": "Dang",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.0000614",
+              "longitude": "70.8927307",
+              "name": "Jetpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.5992349",
+              "longitude": "72.9342451",
+              "name": "Valsad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.6087487",
+              "longitude": "73.4622161",
+              "name": "Kalol",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.9619463",
+              "longitude": "70.792297",
+              "name": "Gondal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.6031774",
+              "longitude": "71.2220832",
+              "name": "Amreli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Gujarat"
+        },
+        {
+          "city": [
+            {
+              "latitude": "7.083333",
+              "longitude": "93.8",
+              "name": "Nicobar Islands",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.6518832",
+              "longitude": "92.8976254",
+              "name": "North and Middle Andaman",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.7400867",
+              "longitude": "92.6586401",
+              "name": "South Andaman",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Andaman and Nicobar Islands"
+        },
+        {
+          "city": [
+            {
+              "latitude": "17.6868159",
+              "longitude": "83.2184815",
+              "name": "Visakhapatnam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.5061743",
+              "longitude": "80.6480153",
+              "name": "Vijayawada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.3066525",
+              "longitude": "80.4365402",
+              "name": "Guntur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.4425987",
+              "longitude": "79.986456",
+              "name": "Nellore",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.8281257",
+              "longitude": "78.0372792",
+              "name": "Kurnool",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.4673541",
+              "longitude": "78.8241339",
+              "name": "Kadapa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.0005383",
+              "longitude": "81.8040345",
+              "name": "Rajahmundry",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.9890648",
+              "longitude": "82.2474648",
+              "name": "Kakinada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.6287557",
+              "longitude": "79.4191795",
+              "name": "Tirupati",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.6818877",
+              "longitude": "77.6005911",
+              "name": "Anantapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.1066576",
+              "longitude": "83.3955506",
+              "name": "Vizianagaram",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.7106604",
+              "longitude": "81.0952431",
+              "name": "Eluru",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.5057232",
+              "longitude": "80.049922",
+              "name": "Ongole",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.4785694",
+              "longitude": "78.4830934",
+              "name": "Nandyal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.1905457",
+              "longitude": "81.1361543",
+              "name": "Machilipatnam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.6322227",
+              "longitude": "77.2728368",
+              "name": "Adoni",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.2395313",
+              "longitude": "80.6493396",
+              "name": "Tenali",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.7491864",
+              "longitude": "78.5531577",
+              "name": "Proddatur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.217176",
+              "longitude": "79.1003289",
+              "name": "Chittoor",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.8185378",
+              "longitude": "77.4988753",
+              "name": "Hindupur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.544893",
+              "longitude": "81.521241",
+              "name": "Bhimavaram",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.5603491",
+              "longitude": "78.5036065",
+              "name": "Madanapalle",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.1674091",
+              "longitude": "77.3736238",
+              "name": "Guntakal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.2969747",
+              "longitude": "83.8967813",
+              "name": "Srikakulam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.4137447",
+              "longitude": "77.7126189",
+              "name": "Dharmavaram",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.4410255",
+              "longitude": "80.9926327",
+              "name": "Gudivada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.2353506",
+              "longitude": "80.0479039",
+              "name": "Narasaraopet",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.9070274",
+              "longitude": "78.0092703",
+              "name": "Tadipatri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.8138415",
+              "longitude": "81.521241",
+              "name": "Tadepalligudem",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.9580551",
+              "longitude": "84.5523578",
+              "name": "Amaravati",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.0924301",
+              "longitude": "80.1623948",
+              "name": "Chilakaluripet",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Andhra Pradesh"
+        },
+        {
+          "city": [
+            {
+              "latitude": "27.1305856",
+              "longitude": "95.7342373",
+              "name": "Anjaw",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.1305856",
+              "longitude": "95.7342373",
+              "name": "Changlang",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.8129",
+              "longitude": "96.1527",
+              "name": "Dibang Valley",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.4231",
+              "longitude": "93.0176",
+              "name": "East Kameng",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.1097",
+              "longitude": "95.1432",
+              "name": "East Siang",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.7995361",
+              "longitude": "93.5538411",
+              "name": "Kurung Kumey",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.9039651",
+              "longitude": "96.1739116",
+              "name": "Lohit",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.1428728",
+              "longitude": "95.8431018",
+              "name": "Lower Dibang Valley",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.6169",
+              "longitude": "93.8392",
+              "name": "Lower Subansiri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.1719",
+              "longitude": "93.7029",
+              "name": "Papum Pare",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.5780678",
+              "longitude": "91.8757422",
+              "name": "Tawang",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.9942703",
+              "longitude": "95.5407299",
+              "name": "Tirap",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.7589",
+              "longitude": "95.2267",
+              "name": "Upper Siang",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.7868",
+              "longitude": "94.3360",
+              "name": "Upper Subansiri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.3428",
+              "longitude": "92.3024",
+              "name": "West Kameng",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.1473",
+              "longitude": "94.7485",
+              "name": "West Siang",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Arunachal Pradesh"
+        },
+        {
+          "city": [
+            {
+              "latitude": "26.6829148",
+              "longitude": "91.1761004",
+              "name": "Baksa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.3304209",
+              "longitude": "91.0040547",
+              "name": "Barpeta",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.7266632",
+              "longitude": "93.1478514",
+              "name": "Biswanath",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.5009992",
+              "longitude": "90.5352356",
+              "name": "Bongaigaon",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.7821253",
+              "longitude": "92.8577105",
+              "name": "Cachar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.7440678",
+              "longitude": "93.1618041",
+              "name": "Charaideo",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.5386619",
+              "longitude": "90.6939122",
+              "name": "Chirang",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.4522876",
+              "longitude": "92.027319",
+              "name": "Darrang",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.4811106",
+              "longitude": "94.5572847",
+              "name": "Dhemaji",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0206982",
+              "longitude": "89.9743463",
+              "name": "Dhubri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.4728327",
+              "longitude": "94.9119621",
+              "name": "Dibrugarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.1641342",
+              "longitude": "90.6251541",
+              "name": "Goalpara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.5238515",
+              "longitude": "93.962337",
+              "name": "Golaghat",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.6811018",
+              "longitude": "92.5638055",
+              "name": "Hailakandi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0016601",
+              "longitude": "92.847737",
+              "name": "Hojai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.7465203",
+              "longitude": "94.2025859",
+              "name": "Jorhat",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0794316",
+              "longitude": "91.637215",
+              "name": "Kamrup Metropolitan",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.3160819",
+              "longitude": "91.5983959",
+              "name": "Kamrup",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.186085",
+              "longitude": "93.5812692",
+              "name": "Karbi Anglong",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.8649128",
+              "longitude": "92.3591531",
+              "name": "Karimganj",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.4014362",
+              "longitude": "90.266699",
+              "name": "Kokrajhar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.2063587",
+              "longitude": "94.1513764",
+              "name": "Lakhimpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.947665",
+              "longitude": "94.173756",
+              "name": "Majuli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.2528853",
+              "longitude": "92.336955",
+              "name": "Morigaon",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.3463713",
+              "longitude": "92.6840426",
+              "name": "Nagaon",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.4446185",
+              "longitude": "91.4410527",
+              "name": "Nalbari",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.3478004",
+              "longitude": "93.0175712",
+              "name": "Dima Hasao",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.9826098",
+              "longitude": "94.6424521",
+              "name": "Sivasagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.6738851",
+              "longitude": "92.8577105",
+              "name": "Sonitpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.667708",
+              "longitude": "89.871747",
+              "name": "South Salmara-Mankachar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.4921909",
+              "longitude": "95.346775",
+              "name": "Tinsukia",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.7460177",
+              "longitude": "92.0959429",
+              "name": "Udalguri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.186085",
+              "longitude": "93.5812692",
+              "name": "West Karbi Anglong",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Assam"
+        },
+        {
+          "city": [
+            {
+              "latitude": "26.1311375",
+              "longitude": "87.445534",
+              "name": "Araria",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.2440189",
+              "longitude": "84.6662199",
+              "name": "Arwal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.7457189",
+              "longitude": "84.3804888",
+              "name": "Aurangabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.8874179",
+              "longitude": "86.919838",
+              "name": "Banka",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.416675",
+              "longitude": "86.1293792",
+              "name": "Begusarai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.2414303",
+              "longitude": "86.9924358",
+              "name": "Bhagalpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.466155",
+              "longitude": "84.5222189",
+              "name": "Bhojpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.5647103",
+              "longitude": "83.9777482",
+              "name": "Buxar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.111868",
+              "longitude": "85.896004",
+              "name": "Darbhanga",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.6098139",
+              "longitude": "84.8567932",
+              "name": "East Champaran",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.7954523",
+              "longitude": "84.999431",
+              "name": "Gaya",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.4685472",
+              "longitude": "84.4433318",
+              "name": "Gopalganj",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.9195147",
+              "longitude": "86.224718",
+              "name": "Jamui",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.2139287",
+              "longitude": "84.9895549",
+              "name": "Jehanabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.5111515",
+              "longitude": "86.476908",
+              "name": "Khagaria",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0917422",
+              "longitude": "87.9383822",
+              "name": "Kishanganj",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.9080554",
+              "longitude": "83.5323391",
+              "name": "Kaimur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.552048",
+              "longitude": "87.5718609",
+              "name": "Katihar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.1673614",
+              "longitude": "86.0988253",
+              "name": "Lakhisarai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.3468544",
+              "longitude": "86.0715474",
+              "name": "Madhubani",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.3747561",
+              "longitude": "86.4735251",
+              "name": "Munger",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.9286903",
+              "longitude": "86.7909759",
+              "name": "Madhepura",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.1208876",
+              "longitude": "85.3647201",
+              "name": "Muzaffarpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.1240603",
+              "longitude": "85.4594749",
+              "name": "Nalanda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.8910775",
+              "longitude": "85.5354724",
+              "name": "Nawada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.5940947",
+              "longitude": "85.1375645",
+              "name": "Patna",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.7771391",
+              "longitude": "87.4752551",
+              "name": "Purnia",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.6287405",
+              "longitude": "83.9201656",
+              "name": "Rohtas",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.8834961",
+              "longitude": "86.6006249",
+              "name": "Saharsa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.8629679",
+              "longitude": "85.7810263",
+              "name": "Samastipur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.5145872",
+              "longitude": "85.2942313",
+              "name": "Sheohar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.1416937",
+              "longitude": "85.8628915",
+              "name": "Sheikhpura",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0502233",
+              "longitude": "84.6250199",
+              "name": "Saran",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.5952476",
+              "longitude": "85.4808393",
+              "name": "Sitamarhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.1317087",
+              "longitude": "86.6107106",
+              "name": "Supaul",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.2196205",
+              "longitude": "84.3566593",
+              "name": "Siwan",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0038178",
+              "longitude": "85.0817825",
+              "name": "Vaishali",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.2590444",
+              "longitude": "84.0180642",
+              "name": "West Champaran",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Bihar"
+        },
+        {
+          "city": [
+            {
+              "latitude": "30.7333148",
+              "longitude": "76.7794179",
+              "name": "Chandigarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Chandigarh"
+        },
+        {
+          "city": [
+            {
+              "latitude": "20.7311315",
+              "longitude": "81.2023063",
+              "name": "Balod",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.6569173",
+              "longitude": "82.1591963",
+              "name": "Baloda Bazar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.611174",
+              "longitude": "83.610896",
+              "name": "Balrampur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.2036769",
+              "longitude": "81.9343855",
+              "name": "Bastar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.7140253",
+              "longitude": "81.5356149",
+              "name": "Bemetara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.7977099",
+              "longitude": "80.8128636",
+              "name": "Bijapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.0796251",
+              "longitude": "82.1391412",
+              "name": "Bilaspur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.896863",
+              "longitude": "81.3454417",
+              "name": "Dantewada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.7014999",
+              "longitude": "81.5541579",
+              "name": "Dhamtari",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.1904494",
+              "longitude": "81.2849169",
+              "name": "Durg",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.6338593",
+              "longitude": "82.0597816",
+              "name": "Gariaband",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.9705529",
+              "longitude": "82.4752757",
+              "name": "Janjgir-Champa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.8874202",
+              "longitude": "84.1382368",
+              "name": "Jashpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.0990944",
+              "longitude": "81.2518833",
+              "name": "Kabirdham",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.2727132",
+              "longitude": "81.4883097",
+              "name": "Kanker",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.595851",
+              "longitude": "81.6637765",
+              "name": "Kondagaon",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.3594501",
+              "longitude": "82.7500595",
+              "name": "Korba",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.3875499",
+              "longitude": "82.3885783",
+              "name": "Koriya",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.1091317",
+              "longitude": "82.0979023",
+              "name": "Mahasamund",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.0685419",
+              "longitude": "81.6856808",
+              "name": "Mungeli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.723535",
+              "longitude": "81.2424108",
+              "name": "Narayanpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.8974003",
+              "longitude": "83.3949632",
+              "name": "Raigarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.2513844",
+              "longitude": "81.6296413",
+              "name": "Raipur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.0971034",
+              "longitude": "81.0302222",
+              "name": "Rajnandgaon",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.3911344",
+              "longitude": "81.659273",
+              "name": "Sukma",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.2148145",
+              "longitude": "82.8694464",
+              "name": "Surajpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.9494079",
+              "longitude": "83.1649001",
+              "name": "Surguja",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Chhattisgarh"
+        },
+        {
+          "city": [
+            {
+              "latitude": "20.2777871",
+              "longitude": "73.0641396",
+              "name": "Dadra and Nagar Haveli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Dadra and Nagar Haveli"
+        },
+        {
+          "city": [
+            {
+              "latitude": "20.3973736",
+              "longitude": "72.8327991",
+              "name": "Daman",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.7144094",
+              "longitude": "70.9873719",
+              "name": "Diu",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Daman and Diu"
+        },
+        {
+          "city": [
+            {
+              "latitude": "28.6643427",
+              "longitude": "77.2166836",
+              "name": "Central Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.6279559",
+              "longitude": "77.2956273",
+              "name": "East Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.6618976",
+              "longitude": "77.2273958",
+              "name": "New Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.7886037",
+              "longitude": "77.1411602",
+              "name": "North Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.7183693",
+              "longitude": "77.2580268",
+              "name": "North East Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.7186211",
+              "longitude": "77.0685134",
+              "name": "North West Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.6987568",
+              "longitude": "77.2925771",
+              "name": "Shahdara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.4816551",
+              "longitude": "77.1872857",
+              "name": "South Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.5630291",
+              "longitude": "77.261088",
+              "name": "South East Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.5928929",
+              "longitude": "77.0346164",
+              "name": "South West Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.6663433",
+              "longitude": "77.067959",
+              "name": "West Delhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Delhi"
+        },
+        {
+          "city": [
+            {
+              "latitude": "15.5163112",
+              "longitude": "73.9830029",
+              "name": "North Goa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.11766",
+              "longitude": "74.123996",
+              "name": "South Goa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Goa"
+        },
+        {
+          "city": [
+            {
+              "latitude": "30.3781788",
+              "longitude": "76.7766974",
+              "name": "Ambala",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.7990445",
+              "longitude": "76.1335112",
+              "name": "Bhiwani",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.5920617",
+              "longitude": "76.2652909",
+              "name": "Charkhi Dadri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.4089123",
+              "longitude": "77.3177894",
+              "name": "Faridabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.5077159",
+              "longitude": "75.4519516",
+              "name": "Fatehabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.4594965",
+              "longitude": "77.0266383",
+              "name": "Gurgaon",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.1491875",
+              "longitude": "75.7216527",
+              "name": "Hissar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.6079115",
+              "longitude": "76.6571775",
+              "name": "Jhajjar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.3211153",
+              "longitude": "76.3058328",
+              "name": "Jind",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.7856734",
+              "longitude": "76.3984537",
+              "name": "Kaithal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.6856929",
+              "longitude": "76.9904825",
+              "name": "Karnal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.9695121",
+              "longitude": "76.878282",
+              "name": "Kurukshetra",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.2710192",
+              "longitude": "76.1493891",
+              "name": "Mahendragarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.1023894",
+              "longitude": "76.9931074",
+              "name": "Nuh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.1487362",
+              "longitude": "77.3320262",
+              "name": "Palwal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.6942091",
+              "longitude": "76.860565",
+              "name": "Panchkula",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.3909464",
+              "longitude": "76.9635023",
+              "name": "Panipat",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.1927631",
+              "longitude": "76.6239423",
+              "name": "Rewari",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.8955152",
+              "longitude": "76.606611",
+              "name": "Rohtak",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.5335931",
+              "longitude": "75.0177029",
+              "name": "Sirsa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.9930823",
+              "longitude": "77.0150735",
+              "name": "Sonipat",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.1290485",
+              "longitude": "77.2673901",
+              "name": "Yamuna Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Haryana"
+        },
+        {
+          "city": [
+            {
+              "latitude": "31.3429426",
+              "longitude": "76.7625073",
+              "name": "Bilaspur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "32.5533633",
+              "longitude": "76.1258083",
+              "name": "Chamba",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.6861745",
+              "longitude": "76.5213092",
+              "name": "Hamirpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "32.0998031",
+              "longitude": "76.2691006",
+              "name": "Kangra",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.6509576",
+              "longitude": "78.4751945",
+              "name": "Kinnaur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.957851",
+              "longitude": "77.1094597",
+              "name": "Kullu",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "32.6192107",
+              "longitude": "77.3783789",
+              "name": "Lahaul and Spiti",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.7081655",
+              "longitude": "76.9313675",
+              "name": "Mandi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.1048145",
+              "longitude": "77.1734033",
+              "name": "Shimla",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.5628455",
+              "longitude": "77.4701972",
+              "name": "Sirmaur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.9044857",
+              "longitude": "77.0967357",
+              "name": "Solan",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.468445",
+              "longitude": "76.2707745",
+              "name": "Una",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Himachal Pradesh"
+        },
+        {
+          "city": [
+            {
+              "latitude": "33.7311255",
+              "longitude": "75.1487007",
+              "name": "Anantnag",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "34.5052",
+              "longitude": "74.6869",
+              "name": "Bandipora",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "34.1990498",
+              "longitude": "74.3499496",
+              "name": "Baramulla",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "34.0117793",
+              "longitude": "74.7746684",
+              "name": "Badgam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "33.1457497",
+              "longitude": "75.5480491",
+              "name": "Doda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "34.2164955",
+              "longitude": "74.7719431",
+              "name": "Ganderbal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "32.7266016",
+              "longitude": "74.8570259",
+              "name": "Jammu",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "34.5538522",
+              "longitude": "76.1348944",
+              "name": "Kargil",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "32.3864799",
+              "longitude": "75.5172688",
+              "name": "Kathua",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "33.3115906",
+              "longitude": "75.7662195",
+              "name": "Kishtwar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "33.6449908",
+              "longitude": "75.018031",
+              "name": "Kulgam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "34.5261786",
+              "longitude": "74.2546136",
+              "name": "Kupwara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "34.1525864",
+              "longitude": "77.5770535",
+              "name": "Leh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "33.7670014",
+              "longitude": "74.0924041",
+              "name": "Poonch",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "33.8716",
+              "longitude": "74.8946",
+              "name": "Pulwama",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "33.3716",
+              "longitude": "74.3152",
+              "name": "Rajouri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "33.2427",
+              "longitude": "75.2392",
+              "name": "Ramban",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "33.0804",
+              "longitude": "74.8364",
+              "name": "Reasi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "32.5530092",
+              "longitude": "75.1107527",
+              "name": "Samba",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "33.7170033",
+              "longitude": "74.8360918",
+              "name": "Shopian",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "34.0836708",
+              "longitude": "74.7972825",
+              "name": "Srinagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "32.9159847",
+              "longitude": "75.1416173",
+              "name": "Udhampur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Jammu and Kashmir"
+        },
+        {
+          "city": [
+            {
+              "latitude": "23.6692956",
+              "longitude": "86.151112",
+              "name": "Bokaro",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.2065083",
+              "longitude": "84.8724284",
+              "name": "Chatra",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.4763201",
+              "longitude": "86.6913222",
+              "name": "Deoghar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.7956531",
+              "longitude": "86.4303859",
+              "name": "Dhanbad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.2854664",
+              "longitude": "87.2419299",
+              "name": "Dumka",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.4866756",
+              "longitude": "86.4996546",
+              "name": "East Singhbhum",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.1548982",
+              "longitude": "83.7995617",
+              "name": "Garhwa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.1821391",
+              "longitude": "86.2869507",
+              "name": "Giridih",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.8255215",
+              "longitude": "87.2135177",
+              "name": "Godda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.0441295",
+              "longitude": "84.5379455",
+              "name": "Gumla",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.9966213",
+              "longitude": "85.3691068",
+              "name": "Hazaribag",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.9505496",
+              "longitude": "86.8170132",
+              "name": "Jamtara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.0797595",
+              "longitude": "85.2774207",
+              "name": "Khunti",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.4676805",
+              "longitude": "85.5933645",
+              "name": "Koderma",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.7463215",
+              "longitude": "84.5091102",
+              "name": "Latehar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.4409325",
+              "longitude": "84.6845216",
+              "name": "Lohardaga",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.6336908",
+              "longitude": "87.8500644",
+              "name": "Pakur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.1286106",
+              "longitude": "84.1857115",
+              "name": "Palamu",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.6332243",
+              "longitude": "85.5148735",
+              "name": "Ramgarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.3440997",
+              "longitude": "85.309562",
+              "name": "Ranchi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.2381216",
+              "longitude": "87.6453592",
+              "name": "Sahibganj",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.8561261",
+              "longitude": "86.0121573",
+              "name": "Seraikela Kharsawan",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.6151138",
+              "longitude": "84.4959985",
+              "name": "Simdega",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.3650858",
+              "longitude": "85.4375574",
+              "name": "West Singhbhum",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Jharkhand"
+        },
+        {
+          "city": [
+            {
+              "latitude": "16.1725355",
+              "longitude": "75.6557206",
+              "name": "Bagalkot",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.1393932",
+              "longitude": "76.9214428",
+              "name": "Ballari",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.8496953",
+              "longitude": "74.4976741",
+              "name": "Belagavi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.2846993",
+              "longitude": "77.6077865",
+              "name": "Bengaluru Rural",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.9700247",
+              "longitude": "77.6536125",
+              "name": "Bengaluru Urban",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.9148799",
+              "longitude": "77.5046101",
+              "name": "Bidar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.9261471",
+              "longitude": "76.9437312",
+              "name": "Chamarajnagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.432366",
+              "longitude": "77.7280396",
+              "name": "Chikkaballapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.315258",
+              "longitude": "75.7754018",
+              "name": "Chikkamagaluru",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.2305594",
+              "longitude": "76.3984537",
+              "name": "Chitradurga",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.8437814",
+              "longitude": "75.2479061",
+              "name": "Dakshina Kannada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.4663438",
+              "longitude": "75.9238397",
+              "name": "Davanagere",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.4589236",
+              "longitude": "75.007808",
+              "name": "Dharwad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.4324651",
+              "longitude": "75.6380337",
+              "name": "Gadag",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.0068142",
+              "longitude": "76.0995519",
+              "name": "Hassan",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.7959027",
+              "longitude": "75.3971254",
+              "name": "Haveri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.329731",
+              "longitude": "76.8342957",
+              "name": "Kalaburagi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.3374942",
+              "longitude": "75.8069082",
+              "name": "Kodagu",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.1357446",
+              "longitude": "78.1325611",
+              "name": "Kolar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.3507081",
+              "longitude": "76.1554311",
+              "name": "Koppal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.5221567",
+              "longitude": "76.9009191",
+              "name": "Mandya",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.2958104",
+              "longitude": "76.6393805",
+              "name": "Mysuru",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.2120031",
+              "longitude": "77.3439283",
+              "name": "Raichur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.7094487",
+              "longitude": "77.2807423",
+              "name": "Ramanagara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.9299299",
+              "longitude": "75.568101",
+              "name": "Shivamogga",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.3391677",
+              "longitude": "77.1139984",
+              "name": "Tumakuru",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.3408807",
+              "longitude": "74.7421427",
+              "name": "Udupi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "14.7937065",
+              "longitude": "74.6868815",
+              "name": "Uttara Kannada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.2955371",
+              "longitude": "77.8009872",
+              "name": "Vijayapura",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.7601963",
+              "longitude": "77.142764",
+              "name": "Yadgir",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Karnataka"
+        },
+        {
+          "city": [
+            {
+              "latitude": "9.4980667",
+              "longitude": "76.3388484",
+              "name": "Alappuzha",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "9.9816358",
+              "longitude": "76.2998842",
+              "name": "Ernakulam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "9.8138076",
+              "longitude": "76.9297354",
+              "name": "Idukki",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.8744775",
+              "longitude": "75.3703662",
+              "name": "Kannur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.5102239",
+              "longitude": "74.9851678",
+              "name": "Kasaragod",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "8.8932118",
+              "longitude": "76.6141396",
+              "name": "Kollam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "9.5915668",
+              "longitude": "76.5221531",
+              "name": "Kottayam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.2587531",
+              "longitude": "75.78041",
+              "name": "Kozhikode",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.0731819",
+              "longitude": "76.0739999",
+              "name": "Malappuram",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.7867303",
+              "longitude": "76.6547932",
+              "name": "Palakkad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "9.2647582",
+              "longitude": "76.7870414",
+              "name": "Pathanamthitta",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.5276416",
+              "longitude": "76.2144349",
+              "name": "Thrissur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "8.5241391",
+              "longitude": "76.9366376",
+              "name": "Thiruvananthapuram",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.703206",
+              "longitude": "76.0833999",
+              "name": "Wayanad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Kerala"
+        },
+        {
+          "city": [
+            {
+              "latitude": "10.3325318",
+              "longitude": "72.7934036",
+              "name": "Lakshadweep",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Lakshadweep"
+        },
+        {
+          "city": [
+            {
+              "latitude": "23.7137337",
+              "longitude": "76.0094637",
+              "name": "Agar Malwa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.3059709",
+              "longitude": "74.3558148",
+              "name": "Alirajpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.1136554",
+              "longitude": "81.697629",
+              "name": "Anuppur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.2586691",
+              "longitude": "77.4261696",
+              "name": "Ashok Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.812876",
+              "longitude": "80.1838293",
+              "name": "Balaghat",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.0363157",
+              "longitude": "74.903339",
+              "name": "Barwani",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.9108031",
+              "longitude": "77.9011842",
+              "name": "Betul",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.5587354",
+              "longitude": "78.7872876",
+              "name": "Bhind",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.2599333",
+              "longitude": "77.412615",
+              "name": "Bhopal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.3193875",
+              "longitude": "76.2224273",
+              "name": "Burhanpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.9163562",
+              "longitude": "79.5811827",
+              "name": "Chhatarpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.057437",
+              "longitude": "78.9381729",
+              "name": "Chhindwara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.8380986",
+              "longitude": "79.4421731",
+              "name": "Damoh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.6653262",
+              "longitude": "78.4609393",
+              "name": "Datia",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.9622672",
+              "longitude": "76.0507949",
+              "name": "Dewas",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.6012922",
+              "longitude": "75.3024655",
+              "name": "Dhar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.9417931",
+              "longitude": "81.0768455",
+              "name": "Dindori",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.6348197",
+              "longitude": "77.2979782",
+              "name": "Guna",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.2182871",
+              "longitude": "78.1828308",
+              "name": "Gwalior",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.3355446",
+              "longitude": "77.0996085",
+              "name": "Harda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.744108",
+              "longitude": "77.736967",
+              "name": "Hoshangabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.7195687",
+              "longitude": "75.8577258",
+              "name": "Indore",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.181467",
+              "longitude": "79.9864071",
+              "name": "Jabalpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.769666",
+              "longitude": "74.5920921",
+              "name": "Jhabua",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.8308453",
+              "longitude": "80.4072255",
+              "name": "Katni",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.8257334",
+              "longitude": "76.352571",
+              "name": "Khandwa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.8335244",
+              "longitude": "75.6149893",
+              "name": "Khargone",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.5979218",
+              "longitude": "80.3713855",
+              "name": "Mandla",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.076836",
+              "longitude": "75.0692952",
+              "name": "Mandsaur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.4933562",
+              "longitude": "77.9909949",
+              "name": "Morena",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.946557",
+              "longitude": "79.1943534",
+              "name": "Narsinghpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.4763852",
+              "longitude": "74.8624092",
+              "name": "Neemuch",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.7180311",
+              "longitude": "80.1819268",
+              "name": "Panna",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.3327329",
+              "longitude": "77.7823973",
+              "name": "Raisen",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.0078819",
+              "longitude": "76.7278803",
+              "name": "Rajgarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.3341696",
+              "longitude": "75.0376325",
+              "name": "Ratlam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.5372927",
+              "longitude": "81.30418",
+              "name": "Rewa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.838805",
+              "longitude": "78.7378068",
+              "name": "Sagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.6005075",
+              "longitude": "80.8322428",
+              "name": "Satna",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.205012",
+              "longitude": "77.0850781",
+              "name": "Sehore",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.0868691",
+              "longitude": "79.5434841",
+              "name": "Seoni",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.3021885",
+              "longitude": "81.3568021",
+              "name": "Shahdol",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.4272938",
+              "longitude": "76.2729839",
+              "name": "Shajapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.67282",
+              "longitude": "76.6961305",
+              "name": "Sheopur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.4357869",
+              "longitude": "77.665066",
+              "name": "Shivpuri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.3956038",
+              "longitude": "81.8825279",
+              "name": "Sidhi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.1992101",
+              "longitude": "82.6645469",
+              "name": "Singrauli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.7456147",
+              "longitude": "78.8320779",
+              "name": "Tikamgarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.1793013",
+              "longitude": "75.7849097",
+              "name": "Ujjain",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.5309797",
+              "longitude": "80.8294747",
+              "name": "Umaria",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.5251102",
+              "longitude": "77.8081363",
+              "name": "Vidisha",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Madhya Pradesh"
+        },
+        {
+          "city": [
+            {
+              "latitude": "19.0952075",
+              "longitude": "74.7495916",
+              "name": "Ahmednagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.7059345",
+              "longitude": "77.0219019",
+              "name": "Akola",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.9374238",
+              "longitude": "77.7795513",
+              "name": "Amravati",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.8761653",
+              "longitude": "75.3433139",
+              "name": "Aurangabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.9890893",
+              "longitude": "75.7600785",
+              "name": "Beed",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.1750113",
+              "longitude": "79.6558242",
+              "name": "Bhandara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.5292147",
+              "longitude": "76.1841701",
+              "name": "Buldhana",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.9704597",
+              "longitude": "79.3014845",
+              "name": "Chandrapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.9042201",
+              "longitude": "74.7748979",
+              "name": "Dhule",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.184871",
+              "longitude": "79.9947956",
+              "name": "Gadchiroli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.4624491",
+              "longitude": "80.2209773",
+              "name": "Gondia",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.7173703",
+              "longitude": "77.1493722",
+              "name": "Hingoli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.0076578",
+              "longitude": "75.5626039",
+              "name": "Jalgaon",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.8296893",
+              "longitude": "75.8800305",
+              "name": "Jalna",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.7049873",
+              "longitude": "74.2432527",
+              "name": "Kolhapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.4087934",
+              "longitude": "76.5603828",
+              "name": "Latur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.0759837",
+              "longitude": "72.8776559",
+              "name": "Mumbai City",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.1538231",
+              "longitude": "72.8751786",
+              "name": "Mumbai suburban",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.1382514",
+              "longitude": "77.3209555",
+              "name": "Nanded",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.3755507",
+              "longitude": "74.2427644",
+              "name": "Nandurbar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.1458004",
+              "longitude": "79.0881546",
+              "name": "Nagpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.9974533",
+              "longitude": "73.7898023",
+              "name": "Nashik",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.1860659",
+              "longitude": "76.0419409",
+              "name": "Osmanabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.6935581",
+              "longitude": "72.7655184",
+              "name": "Palghar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.2609958",
+              "longitude": "76.776665",
+              "name": "Parbhani",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.5204303",
+              "longitude": "73.8567437",
+              "name": "Pune",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.734888",
+              "longitude": "73.0966019",
+              "name": "Raigad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.990215",
+              "longitude": "73.3120233",
+              "name": "Ratnagiri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.8523973",
+              "longitude": "74.5814773",
+              "name": "Sangli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.6804639",
+              "longitude": "74.018261",
+              "name": "Satara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.3492193",
+              "longitude": "73.5594128",
+              "name": "Sindhudurg",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.6599188",
+              "longitude": "75.9063906",
+              "name": "Solapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.2183307",
+              "longitude": "72.9780897",
+              "name": "Thane",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.745319",
+              "longitude": "78.6021946",
+              "name": "Wardha",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.1119123",
+              "longitude": "77.1312586",
+              "name": "Washim",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.3887937",
+              "longitude": "78.1204073",
+              "name": "Yavatmal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Maharashtra"
+        },
+        {
+          "city": [
+            {
+              "latitude": "24.6303603",
+              "longitude": "93.7598288",
+              "name": "Bishnupur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.3427485",
+              "longitude": "93.6978264",
+              "name": "Churachandpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.3262003",
+              "longitude": "94.0006003",
+              "name": "Chandel",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.7806536",
+              "longitude": "93.9674371",
+              "name": "Imphal East",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.2677276",
+              "longitude": "94.0210189",
+              "name": "Senapati",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.9879342",
+              "longitude": "93.495292",
+              "name": "Tamenglong",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.6449243",
+              "longitude": "93.99929",
+              "name": "Thoubal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.0953858",
+              "longitude": "94.3616516",
+              "name": "Ukhrul",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.7827837",
+              "longitude": "93.8858955",
+              "name": "Imphal West",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Manipur"
+        },
+        {
+          "city": [
+            {
+              "latitude": "25.5671692",
+              "longitude": "90.5257823",
+              "name": "East Garo Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.3681768",
+              "longitude": "91.7538817",
+              "name": "East Khasi Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.3100768",
+              "longitude": "92.4999918",
+              "name": "East Jaintia Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.8986758",
+              "longitude": "90.4879916",
+              "name": "North Garo Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.8431574",
+              "longitude": "91.985621",
+              "name": "Ri Bhoi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.3300969",
+              "longitude": "90.563609",
+              "name": "South Garo Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.5679372",
+              "longitude": "90.2244662",
+              "name": "South West Garo Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.3258908",
+              "longitude": "91.2506002",
+              "name": "South West Khasi Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.5021272",
+              "longitude": "92.341887",
+              "name": "West Jaintia Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.5679372",
+              "longitude": "90.2244662",
+              "name": "West Garo Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.5624625",
+              "longitude": "91.2891036",
+              "name": "West Khasi Hills",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Meghalaya"
+        },
+        {
+          "city": [
+            {
+              "latitude": "23.727107",
+              "longitude": "92.7176389",
+              "name": "Aizawl",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.4565708",
+              "longitude": "93.3281929",
+              "name": "Champhai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.224565",
+              "longitude": "92.6760251",
+              "name": "Kolasib",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.5284445",
+              "longitude": "92.8926342",
+              "name": "Lawngtlai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.8670691",
+              "longitude": "92.7655358",
+              "name": "Lunglei",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.9294441",
+              "longitude": "92.4905707",
+              "name": "Mamit",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.489734",
+              "longitude": "92.979269",
+              "name": "Saiha",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.3416578",
+              "longitude": "92.8502302",
+              "name": "Serchhip",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Mizoram"
+        },
+        {
+          "city": [
+            {
+              "latitude": "25.8629885",
+              "longitude": "93.7536663",
+              "name": "Dimapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.8689085",
+              "longitude": "94.7853412",
+              "name": "Kiphire",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.6585963",
+              "longitude": "94.1053307",
+              "name": "Kohima",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.4901992",
+              "longitude": "94.819664",
+              "name": "Longleng",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.3220358",
+              "longitude": "94.5134629",
+              "name": "Mokokchung",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.722574",
+              "longitude": "95.0312498",
+              "name": "Mon",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.5124772",
+              "longitude": "93.7390658",
+              "name": "Peren",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.6994918",
+              "longitude": "94.46123",
+              "name": "Phek",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.2357422",
+              "longitude": "94.8131863",
+              "name": "Tuensang",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0910351",
+              "longitude": "94.2589738",
+              "name": "Wokha",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0092831",
+              "longitude": "94.5237707",
+              "name": "Zunheboto",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Nagaland"
+        },
+        {
+          "city": [
+            {
+              "latitude": "20.8444033",
+              "longitude": "85.1510818",
+              "name": "Angul",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.828446",
+              "longitude": "84.3271305",
+              "name": "Boudh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.0582737",
+              "longitude": "86.4958396",
+              "name": "Bhadrak",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.7074234",
+              "longitude": "83.4842725",
+              "name": "Balangir",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.3425839",
+              "longitude": "83.624201",
+              "name": "Bargarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.4869337",
+              "longitude": "86.9246005",
+              "name": "Balasore",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.462521",
+              "longitude": "85.8829895",
+              "name": "Cuttack",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.5383136",
+              "longitude": "84.7289442",
+              "name": "Debagarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.6503455",
+              "longitude": "85.5972218",
+              "name": "Dhenkanal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.387389",
+              "longitude": "85.0515413",
+              "name": "Ganjam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.1912221",
+              "longitude": "84.1857115",
+              "name": "Gajapati",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.8554375",
+              "longitude": "84.0061661",
+              "name": "Jharsuguda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.9754011",
+              "longitude": "85.751283",
+              "name": "Jajpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.2548998",
+              "longitude": "86.1706221",
+              "name": "Jagatsinghpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.1934552",
+              "longitude": "85.6332093",
+              "name": "Khordha",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.628933",
+              "longitude": "85.5816847",
+              "name": "Kendujhar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.9137363",
+              "longitude": "83.1649001",
+              "name": "Kalahandi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.1342042",
+              "longitude": "84.0167423",
+              "name": "Kandhamal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.813487",
+              "longitude": "82.7123327",
+              "name": "Koraput",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.4969108",
+              "longitude": "86.4288534",
+              "name": "Kendrapara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.3435863",
+              "longitude": "81.8825279",
+              "name": "Malkangiri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.0086978",
+              "longitude": "86.4187308",
+              "name": "Mayurbhanj",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.2281434",
+              "longitude": "82.5469898",
+              "name": "Nabarangpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.8060184",
+              "longitude": "82.5361393",
+              "name": "Nuapada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.1231332",
+              "longitude": "85.1038426",
+              "name": "Nayagarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.8133822",
+              "longitude": "85.8314655",
+              "name": "Puri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.171209",
+              "longitude": "83.4163226",
+              "name": "Rayagada",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.4668716",
+              "longitude": "83.9811665",
+              "name": "Sambalpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "20.8480141",
+              "longitude": "83.8950042",
+              "name": "Subarnapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.1240025",
+              "longitude": "84.043175",
+              "name": "Sundargarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Odisha"
+        },
+        {
+          "city": [
+            {
+              "latitude": "10.9254398",
+              "longitude": "79.8380056",
+              "name": "Karaikal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.7027158",
+              "longitude": "75.5364042",
+              "name": "Mahe",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.9138598",
+              "longitude": "79.8144722",
+              "name": "Pondicherry",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.9138598",
+              "longitude": "79.8144722",
+              "name": "Yanam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Puducherry"
+        },
+        {
+          "city": [
+            {
+              "latitude": "31.6339793",
+              "longitude": "74.8722642",
+              "name": "Amritsar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.3819446",
+              "longitude": "75.5467979",
+              "name": "Barnala",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.210994",
+              "longitude": "74.9454745",
+              "name": "Bathinda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.9331348",
+              "longitude": "74.6224755",
+              "name": "Firozpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.678187",
+              "longitude": "74.7395591",
+              "name": "Faridkot",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.6479174",
+              "longitude": "76.3897733",
+              "name": "Fatehgarh Sahib",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.4036478",
+              "longitude": "74.0279621",
+              "name": "Fazilka",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "32.0419424",
+              "longitude": "75.4053367",
+              "name": "Gurdaspur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.5143178",
+              "longitude": "75.911483",
+              "name": "Hoshiarpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.3260152",
+              "longitude": "75.5761829",
+              "name": "Jalandhar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.3714801",
+              "longitude": "75.3936808",
+              "name": "Kapurthala",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.900965",
+              "longitude": "75.8572758",
+              "name": "Ludhiana",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.9995069",
+              "longitude": "75.3936808",
+              "name": "Mansa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.8164603",
+              "longitude": "75.1717093",
+              "name": "Moga",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.4766391",
+              "longitude": "74.511172",
+              "name": "Sri Muktsar Sahib",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "32.2643375",
+              "longitude": "75.6421121",
+              "name": "Pathankot",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.3397809",
+              "longitude": "76.3868797",
+              "name": "Patiala",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.9659168",
+              "longitude": "76.5230234",
+              "name": "Rupnagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.7046486",
+              "longitude": "76.7178726",
+              "name": "Sahibzada Ajit Singh Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.2457963",
+              "longitude": "75.8420716",
+              "name": "Sangrur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.0912954",
+              "longitude": "76.0391909",
+              "name": "Shahid Bhagat Singh Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "31.4616728",
+              "longitude": "74.9267229",
+              "name": "Tarn Taran",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Punjab"
+        },
+        {
+          "city": [
+            {
+              "latitude": "26.4498954",
+              "longitude": "74.6399163",
+              "name": "Ajmer",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.5529907",
+              "longitude": "76.6345735",
+              "name": "Alwar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.0229348",
+              "longitude": "73.3119159",
+              "name": "Bikaner",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.7531537",
+              "longitude": "71.4180622",
+              "name": "Barmer",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.5461394",
+              "longitude": "74.4349761",
+              "name": "Banswara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.216981",
+              "longitude": "77.489515",
+              "name": "Bharatpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.1011438",
+              "longitude": "76.5131637",
+              "name": "Baran",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.4305144",
+              "longitude": "75.6499025",
+              "name": "Bundi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.321377",
+              "longitude": "74.586953",
+              "name": "Bhilwara",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.2920484",
+              "longitude": "74.9617924",
+              "name": "Churu",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.8887435",
+              "longitude": "74.6269216",
+              "name": "Chittorgarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.8931931",
+              "longitude": "76.3375284",
+              "name": "Dausa",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.7025181",
+              "longitude": "77.893391",
+              "name": "Dholpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.841668",
+              "longitude": "73.7146623",
+              "name": "Dungarpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.9038399",
+              "longitude": "73.8771901",
+              "name": "Ganganagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.614436",
+              "longitude": "74.2858121",
+              "name": "Hanumangarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.1288747",
+              "longitude": "75.3995089",
+              "name": "Jhunjhunu",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.3444799",
+              "longitude": "72.6253763",
+              "name": "Jalore",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.2389469",
+              "longitude": "73.0243094",
+              "name": "Jodhpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.9124336",
+              "longitude": "75.7872709",
+              "name": "Jaipur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.9157487",
+              "longitude": "70.9083443",
+              "name": "Jaisalmer",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.5973494",
+              "longitude": "76.1609838",
+              "name": "Jhalawar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.488323",
+              "longitude": "77.0161436",
+              "name": "Karauli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.2138156",
+              "longitude": "75.8647527",
+              "name": "Kota",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.1991222",
+              "longitude": "73.740924",
+              "name": "Nagaur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.7710893",
+              "longitude": "73.3234478",
+              "name": "Pali",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.0316509",
+              "longitude": "74.7787387",
+              "name": "Pratapgarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.0714851",
+              "longitude": "73.8830701",
+              "name": "Rajsamand",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.6094",
+              "longitude": "75.139911",
+              "name": "Sikar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0377772",
+              "longitude": "76.3521514",
+              "name": "Sawai Madhopur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.8851548",
+              "longitude": "72.8574558",
+              "name": "Sirohi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.1620402",
+              "longitude": "75.7894716",
+              "name": "Tonk",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.585445",
+              "longitude": "73.712479",
+              "name": "Udaipur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Rajasthan"
+        },
+        {
+          "city": [
+            {
+              "latitude": "27.3083637",
+              "longitude": "88.6723578",
+              "name": "East Sikkim",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.8236356",
+              "longitude": "88.556531",
+              "name": "North Sikkim",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.28584",
+              "longitude": "88.3945669",
+              "name": "South Sikkim",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.3031986",
+              "longitude": "88.2071598",
+              "name": "West Sikkim",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Sikkim"
+        },
+        {
+          "city": [
+            {
+              "latitude": "11.1400585",
+              "longitude": "79.0786281",
+              "name": "Ariyalur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.0826802",
+              "longitude": "80.2707184",
+              "name": "Chennai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.0168445",
+              "longitude": "76.9558321",
+              "name": "Coimbatore",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.744699",
+              "longitude": "79.7680243",
+              "name": "Cuddalore",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.1065271",
+              "longitude": "78.1361409",
+              "name": "Dharmapuri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.3673123",
+              "longitude": "77.9802906",
+              "name": "Dindigul",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.3410364",
+              "longitude": "77.7171642",
+              "name": "Erode",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.8341735",
+              "longitude": "79.7036402",
+              "name": "Kanchipuram",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "8.0883064",
+              "longitude": "77.5384507",
+              "name": "Kanyakumari",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.9600778",
+              "longitude": "78.0766036",
+              "name": "Karur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.5186113",
+              "longitude": "78.2137365",
+              "name": "Krishnagiri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "9.9252007",
+              "longitude": "78.1197754",
+              "name": "Madurai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.7656082",
+              "longitude": "79.8423888",
+              "name": "Nagapattinam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.4916043",
+              "longitude": "76.7336521",
+              "name": "Nilgiris",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.2194391",
+              "longitude": "78.1677236",
+              "name": "Namakkal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.2409839",
+              "longitude": "78.8665733",
+              "name": "Perambalur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.379663",
+              "longitude": "78.8208454",
+              "name": "Pudukkottai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.9974549",
+              "longitude": "76.9915961",
+              "name": "Ramanathapuram",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.664325",
+              "longitude": "78.1460142",
+              "name": "Salem",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "9.8432999",
+              "longitude": "78.4808775",
+              "name": "Sivaganga",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.1085242",
+              "longitude": "77.3410656",
+              "name": "Tirupur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.7904833",
+              "longitude": "78.7046725",
+              "name": "Tiruchirappalli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.0103658",
+              "longitude": "77.4768115",
+              "name": "Theni",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "8.7139126",
+              "longitude": "77.7566523",
+              "name": "Tirunelveli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.7869994",
+              "longitude": "79.1378274",
+              "name": "Thanjavur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "8.7641661",
+              "longitude": "78.1348361",
+              "name": "Thoothukudi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "13.1444426",
+              "longitude": "79.8940078",
+              "name": "Tiruvallur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "10.7713187",
+              "longitude": "79.6369974",
+              "name": "Tiruvarur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.2252841",
+              "longitude": "79.0746957",
+              "name": "Tiruvannamalai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "12.9165167",
+              "longitude": "79.1324986",
+              "name": "Vellore",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "11.9368897",
+              "longitude": "79.4872619",
+              "name": "Viluppuram",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "9.5680116",
+              "longitude": "77.9624435",
+              "name": "Virudhunagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Tamil Nadu"
+        },
+        {
+          "city": [
+            {
+              "latitude": "19.6640624",
+              "longitude": "78.5320107",
+              "name": "Adilabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.4190224",
+              "longitude": "79.2169174",
+              "name": "Komaram Bheem Asifabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.56754",
+              "longitude": "80.615855",
+              "name": "Bhadradri Kothagudem",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.385044",
+              "longitude": "78.486671",
+              "name": "Hyderabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.7908937",
+              "longitude": "78.9118506",
+              "name": "Jagtial",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.7288387",
+              "longitude": "79.1604971",
+              "name": "Jangaon",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.380754",
+              "longitude": "79.8399069",
+              "name": "Jayashankar Bhupalpally",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "15.8769909",
+              "longitude": "78.1346258",
+              "name": "Jogulamba Gadwal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.3239953",
+              "longitude": "78.3343051",
+              "name": "Kamareddy",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.4385553",
+              "longitude": "79.1288412",
+              "name": "Karimnagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.2472528",
+              "longitude": "80.1514447",
+              "name": "Khammam",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.5975284",
+              "longitude": "80.0015307",
+              "name": "Mahabubabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.7375089",
+              "longitude": "78.0081221",
+              "name": "Mahbubnagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.8755953",
+              "longitude": "79.4591378",
+              "name": "Mancherial",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.0529357",
+              "longitude": "78.261853",
+              "name": "Medak",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.6302223",
+              "longitude": "78.4842132",
+              "name": "Medchal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.0575707",
+              "longitude": "79.2620294",
+              "name": "Nalgonda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.4939417",
+              "longitude": "78.3102489",
+              "name": "Nagarkurnool",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "19.0964117",
+              "longitude": "78.342975",
+              "name": "Nirmal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.6725047",
+              "longitude": "78.0940867",
+              "name": "Nizamabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.6161825",
+              "longitude": "79.3831599",
+              "name": "Peddapalli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.3853194",
+              "longitude": "78.8114192",
+              "name": "Rajanna Sircilla",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.3891379",
+              "longitude": "77.8367282",
+              "name": "Ranga Reddy",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.6194158",
+              "longitude": "78.0823084",
+              "name": "Sangareddy",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "18.1019043",
+              "longitude": "78.852077",
+              "name": "Siddipet",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.1353148",
+              "longitude": "79.6333674",
+              "name": "Suryapet",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.3364298",
+              "longitude": "77.9048483",
+              "name": "Vikarabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "16.3623118",
+              "longitude": "78.0621824",
+              "name": "Wanaparthy",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.915292",
+              "longitude": "79.434963",
+              "name": "Warangal (urban)",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.9620805",
+              "longitude": "79.6412592",
+              "name": "Warangal (rural)",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "17.5039508",
+              "longitude": "78.8885552",
+              "name": "Yadadri Bhuvanagiri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Telangana"
+        },
+        {
+          "city": [
+            {
+              "latitude": "23.8466982",
+              "longitude": "91.9099238",
+              "name": "Dhalai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.5166711",
+              "longitude": "91.637215",
+              "name": "Gomati",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.0671796",
+              "longitude": "91.6056718",
+              "name": "Khowai",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.0797139",
+              "longitude": "92.2630393",
+              "name": "North Tripura",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.6728852",
+              "longitude": "91.3203335",
+              "name": "Sepahijala",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.2317493",
+              "longitude": "91.5596117",
+              "name": "South Tripura",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.1780881",
+              "longitude": "92.027319",
+              "name": "Unokoti",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.899682",
+              "longitude": "91.4048249",
+              "name": "West Tripura",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Tripura"
+        },
+        {
+          "city": [
+            {
+              "latitude": "27.1766701",
+              "longitude": "78.0080745",
+              "name": "Agra",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.8973944",
+              "longitude": "78.0880129",
+              "name": "Aligarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.4358011",
+              "longitude": "81.846311",
+              "name": "Allahabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.4683952",
+              "longitude": "82.6915429",
+              "name": "Ambedkar Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.1540538",
+              "longitude": "81.814238",
+              "name": "Amethi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.9043537",
+              "longitude": "78.4673426",
+              "name": "Amroha",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.4625957",
+              "longitude": "79.5097549",
+              "name": "Auraiya",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.0737044",
+              "longitude": "83.1859458",
+              "name": "Azamgarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.0467525",
+              "longitude": "77.3324425",
+              "name": "Bagpat",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.5708377",
+              "longitude": "81.5980246",
+              "name": "Bahraich",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.7584381",
+              "longitude": "84.1487319",
+              "name": "Ballia",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.4297064",
+              "longitude": "82.1768018",
+              "name": "Balrampur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.4796224",
+              "longitude": "80.3380213",
+              "name": "Banda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.9400001",
+              "longitude": "81.19",
+              "name": "Barabanki",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.3670355",
+              "longitude": "79.4304381",
+              "name": "Bareilly",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.8176796",
+              "longitude": "82.7633133",
+              "name": "Basti",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.3724422",
+              "longitude": "78.1358472",
+              "name": "Bijnor",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.0337088",
+              "longitude": "79.1205419",
+              "name": "Budaun",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.406963",
+              "longitude": "77.8498292",
+              "name": "Bulandshahr",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.2604556",
+              "longitude": "83.2662673",
+              "name": "Chandauli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.1093692",
+              "longitude": "81.0754657",
+              "name": "Chitrakoot",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.4862373",
+              "longitude": "83.7838214",
+              "name": "Deoria",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.5587505",
+              "longitude": "78.662567",
+              "name": "Etah",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.8117116",
+              "longitude": "79.0046898",
+              "name": "Etawah",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.7732476",
+              "longitude": "82.1441643",
+              "name": "Faizabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.3826126",
+              "longitude": "79.5940544",
+              "name": "Farrukhabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.9200736",
+              "longitude": "80.8099941",
+              "name": "Fatehpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.1591006",
+              "longitude": "78.3957574",
+              "name": "Firozabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.338333",
+              "longitude": "77.6077865",
+              "name": "Gautam Buddh Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.6691565",
+              "longitude": "77.4537578",
+              "name": "Ghaziabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.5840419",
+              "longitude": "83.5770202",
+              "name": "Ghazipur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.1339913",
+              "longitude": "81.9618968",
+              "name": "Gonda",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.7605545",
+              "longitude": "83.3731675",
+              "name": "Gorakhpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.9548043",
+              "longitude": "80.1526271",
+              "name": "Hamirpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.7305798",
+              "longitude": "77.7758825",
+              "name": "Hapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.3986345",
+              "longitude": "80.1316927",
+              "name": "Hardoi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.6056212",
+              "longitude": "78.0537813",
+              "name": "Hathras",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.1458649",
+              "longitude": "79.3296565",
+              "name": "Jalaun",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.7490034",
+              "longitude": "82.6987002",
+              "name": "Jaunpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.4484257",
+              "longitude": "78.5684594",
+              "name": "Jhansi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.0514156",
+              "longitude": "79.9136731",
+              "name": "Kannauj",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.526707",
+              "longitude": "79.8296743",
+              "name": "Kanpur Dehat",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.449923",
+              "longitude": "80.3318736",
+              "name": "Kanpur Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.8129344",
+              "longitude": "78.649785",
+              "name": "Kasganj",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.361054",
+              "longitude": "81.4031707",
+              "name": "Kaushambi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.7398787",
+              "longitude": "83.8869698",
+              "name": "Kushinagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.9490794",
+              "longitude": "80.7824012",
+              "name": "Lakhimpur Kheri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.6878597",
+              "longitude": "78.4120206",
+              "name": "Lalitpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.8466937",
+              "longitude": "80.946166",
+              "name": "Lucknow",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.1446035",
+              "longitude": "83.5621737",
+              "name": "Maharajganj",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.2920964",
+              "longitude": "79.8724168",
+              "name": "Mahoba",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.2284986",
+              "longitude": "79.0249516",
+              "name": "Mainpuri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.4924134",
+              "longitude": "77.673673",
+              "name": "Mathura",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.9496379",
+              "longitude": "83.5586445",
+              "name": "Mau",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.9844618",
+              "longitude": "77.7064137",
+              "name": "Meerut",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.1336987",
+              "longitude": "82.5644344",
+              "name": "Mirzapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.8386481",
+              "longitude": "78.7733286",
+              "name": "Moradabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.4726817",
+              "longitude": "77.7085091",
+              "name": "Muzaffarnagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.6207939",
+              "longitude": "79.8128649",
+              "name": "Pilibhit",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.8973038",
+              "longitude": "81.9452981",
+              "name": "Pratapgarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.2345298",
+              "longitude": "81.2408689",
+              "name": "Raebareli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.7893041",
+              "longitude": "79.0249516",
+              "name": "Rampur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.967079",
+              "longitude": "77.5510172",
+              "name": "Saharanpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.5903614",
+              "longitude": "78.5717631",
+              "name": "Sambhal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.7671755",
+              "longitude": "83.0361376",
+              "name": "Sant Kabir Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.326373",
+              "longitude": "82.4319405",
+              "name": "Sant Ravidas Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.883744",
+              "longitude": "79.9122455",
+              "name": "Shahjahanpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.4507575",
+              "longitude": "77.3152116",
+              "name": "Shamli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.5977504",
+              "longitude": "81.9534815",
+              "name": "Shravasti",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.2715633",
+              "longitude": "82.820974",
+              "name": "Siddharthnagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.5839037",
+              "longitude": "80.666356",
+              "name": "Sitapur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.6850005",
+              "longitude": "83.0683519",
+              "name": "Sonbhadra",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.2647757",
+              "longitude": "82.0727061",
+              "name": "Sultanpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.5393449",
+              "longitude": "80.4878195",
+              "name": "Unnao",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.3176452",
+              "longitude": "82.9739144",
+              "name": "Varanasi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Uttar Pradesh"
+        },
+        {
+          "city": [
+            {
+              "latitude": "29.5892407",
+              "longitude": "79.646666",
+              "name": "Almora",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.8403606",
+              "longitude": "79.769426",
+              "name": "Bageshwar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.4041045",
+              "longitude": "79.3317691",
+              "name": "Chamoli",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.3360974",
+              "longitude": "80.0910275",
+              "name": "Champawat",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.3164945",
+              "longitude": "78.0321918",
+              "name": "Dehradun",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.9456906",
+              "longitude": "78.1642478",
+              "name": "Haridwar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.3803039",
+              "longitude": "79.4635658",
+              "name": "Nainital",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.8687682",
+              "longitude": "78.8382644",
+              "name": "Pauri Garhwal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "29.5828604",
+              "longitude": "80.2181884",
+              "name": "Pithoragarh",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.2844141",
+              "longitude": "78.9811407",
+              "name": "Rudraprayag",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.3011858",
+              "longitude": "78.5660852",
+              "name": "Tehri Garhwal",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "28.9609653",
+              "longitude": "79.5153773",
+              "name": "Udham Singh Nagar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "30.7268307",
+              "longitude": "78.4354042",
+              "name": "Uttarkashi",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "Uttarakhand"
+        },
+        {
+          "city": [
+            {
+              "latitude": "26.4918891",
+              "longitude": "89.5271026",
+              "name": "Alipurduar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.2324146",
+              "longitude": "87.0786044",
+              "name": "Bankura",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.2324214",
+              "longitude": "87.8614793",
+              "name": "Bardhaman",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.3575023",
+              "longitude": "87.8426967",
+              "name": "Birbhum",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.3356861",
+              "longitude": "89.445851",
+              "name": "Cooch Behar",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.3715308",
+              "longitude": "88.556531",
+              "name": "Dakshin Dinajpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.0360066",
+              "longitude": "88.2626751",
+              "name": "Darjeeling",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.8858771",
+              "longitude": "88.3919026",
+              "name": "Hooghly",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.5957689",
+              "longitude": "88.2636394",
+              "name": "Howrah",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "26.5434772",
+              "longitude": "88.7205256",
+              "name": "Jalpaiguri",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.4370351",
+              "longitude": "86.9924358",
+              "name": "Jhargram",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "27.0593562",
+              "longitude": "88.4694535",
+              "name": "Kalimpong",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.572646",
+              "longitude": "88.363895",
+              "name": "Kolkata",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.1785773",
+              "longitude": "88.2461183",
+              "name": "Maldah",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "24.1759039",
+              "longitude": "88.2801785",
+              "name": "Murshidabad",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.7059105",
+              "longitude": "88.7530076",
+              "name": "Nadia",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.6168099",
+              "longitude": "88.402895",
+              "name": "North 24 Parganas",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.4080376",
+              "longitude": "87.3810727",
+              "name": "Paschim Medinipur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "21.9372879",
+              "longitude": "87.7763333",
+              "name": "\tPurba Medinipur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "23.3320779",
+              "longitude": "86.365208",
+              "name": "Purulia",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "22.1352378",
+              "longitude": "88.4016041",
+              "name": "South 24 Parganas",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            },
+            {
+              "latitude": "25.9810393",
+              "longitude": "88.050979",
+              "name": "Uttar Dinajpur",
+              "timezone": "+5:30",
+              "timezone_id": "Asia/Kolkata"
+            }
+          ],
+          "name": "West Bengal"
+        }
+      ]
+    }
+  ]
+}
